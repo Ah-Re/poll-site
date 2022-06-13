@@ -1,10 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Yo, what's good fam.</h1>
+      <h1>Hey, do you wanna make a poll?</h1>
     </div>
   );
 }
