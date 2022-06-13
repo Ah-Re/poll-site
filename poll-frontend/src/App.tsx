@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Hey, do you wanna make a poll?</h1>
       <Graph />
+      <Graph />
     </div>
   );
 }
